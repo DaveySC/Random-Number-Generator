@@ -1,0 +1,7 @@
+﻿  Generators.cpp
+C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\rng\Generators.cpp(119,49): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\rng\Generators.cpp(151,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\rng\Generators.cpp(211,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\rng\Generators.cpp(226,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\rng\Generators.cpp(232,28): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  rng.vcxproj -> C:\Users\hrisa\OneDrive\Рабочий стол\все папки\универ\8 семестр\тгспч\программы\rng\x64\Debug\rng.exe
